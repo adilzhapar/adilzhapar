@@ -1,16 +1,20 @@
-### Hi there 👋
+<span align="center">
 
-<!--
-**adilzhapar/adilzhapar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sa'lem 👋
 
-Here are some ideas to get you started:
+Web2 & Web3 development enthusiast from KZ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+on the way to have fun, spread empathy, generate value & create conscious generation
+
+<a href="https://github.com/adilzhapar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adil" height="20" width="20" /></a>
+<a href="https://twitter.com/AdilZhapar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adil" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/adilzhapar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adilzhapar/" height="20" width="20" /></a>
+  
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=adilzhapar)](https://github.com/LordDashMe/github-contribution-stats/)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adilzhapar&count_private=true&show_icons=true&theme=radical)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadilzhapar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today%2Ftotal+visitors+since+January+1st%2C+2021&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</span>
