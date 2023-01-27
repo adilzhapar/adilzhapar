@@ -12,7 +12,6 @@ on the way to have fun, spread empathy, generate value & create conscious genera
   
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=adilzhapar)](https://github.com/LordDashMe/github-contribution-stats/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilzhapar&exclude_repo=Python-Summer)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadilzhapar&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today%2Ftotal+visitors+since+January+1st%2C+2021&edge_flat=false)](https://hits.seeyoufarm.com)
 
