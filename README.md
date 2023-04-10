@@ -6,10 +6,12 @@ I am Full-Stack developer, mostly Backend :) from Kazakhstan.
 
 on the way to have fun, spread empathy, generate value & create conscious generation
 
+<div style="background: white; max-width: 70px; padding: 0.1em">
 <a href="https://github.com/adilzhapar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adil" height="20" width="20" /></a>
 <a href="https://twitter.com/AdilZhapar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adil" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/adilzhapar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adilzhapar/" height="20" width="20" /></a>
-  
+</div>
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=adilzhapar)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
