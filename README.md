@@ -2,8 +2,10 @@
 
 ### Sa'lem 👋
 
-I am Full-Stack developer, mostly Backend :) from Kazakhstan. 
+I am Sofware Engineer from Kazakhstan. 
 
+Backend | Blockchain Developer
+  
 on the way to have fun, spread empathy, generate value & create conscious generation
 
 <div style="background: white; padding: 0.1em">
