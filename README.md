@@ -6,7 +6,7 @@ I am Sofware Engineer from Kazakhstan.
 
 Backend | Blockchain Developer
   
-on the way to have fun, spread empathy, generate value & create conscious generation
+on the way to have fun, spread empathy, generate value & be a part of conscious generation
 
 <div style="background: white; padding: 0.1em">
 <a href="https://github.com/adilzhapar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adil" height="20" width="20" /></a>
@@ -25,8 +25,6 @@ on the way to have fun, spread empathy, generate value & create conscious genera
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
