@@ -2,9 +2,9 @@
 
 ### Sa'lem 👋
 
-I am Sofware Engineer from Kazakhstan. 
+I'm a Sofware Engineer from Kazakhstan. 
 
-Backend | Blockchain Developer
+Web Developer
   
 on the way to have fun, spread empathy, generate value & be a part of conscious generation
 
