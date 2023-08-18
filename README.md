@@ -2,7 +2,7 @@
 
 ### Sa'lem 👋
 
-Sofware Engineer & Web Developer from KZ. 
+Software Engineer & Web Developer from KZ. 
 
 
 <div style="background: white; padding: 0.1em; margin: 1em">
